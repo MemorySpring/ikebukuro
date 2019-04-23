@@ -1,0 +1,3 @@
+{
+  "mysql": "root:youpassword@tcp(47.104.168.193:3306)/test?charset=utf8"
+}
